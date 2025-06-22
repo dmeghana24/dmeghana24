@@ -1,4 +1,4 @@
-# 👋 Hello! I’m Meghana D.
+# Meghana D.
 ### Bioinformatics Graduate Student @ University of Michigan
 
 ---
