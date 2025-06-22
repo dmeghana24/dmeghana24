@@ -5,7 +5,7 @@
 
 **🔍 About Me**
 
-I’m passionate about building **reproducible pipelines** to make sense of complex clinical and omics data. My main interests include:
+I’m interested in building **reproducible pipelines** to make sense of complex clinical and omics data. My main interests include:
 
 - 🧬 **NLP & Machine Learning:** Extracting genetic and phenotypic information from EHRs
 - 🔗 **Multi-omics Integration:** Combining transcriptomics, proteomics, and network analysis for systems biology
