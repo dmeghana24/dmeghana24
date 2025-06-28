@@ -21,7 +21,7 @@ If you’re interested in full code, collaboration, or discussing research, I’
 ---
 
 **✨ Research Interests:**  
-clinical NLP • translational bioinformatics • EHR mining • multi-omics integration • reproducible workflow design
+clinical NLP • translational bioinformatics • EHR mining • multi-omics integration 
 
 ---
 
